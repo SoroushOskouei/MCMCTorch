@@ -2,7 +2,7 @@
 A library that focuses on Bayesian Markov Chain Monte Carlo (MCMC) sampling methods using PyTorch. It includes several sampler classes for different MCMC algorithms, utilities for managing sample chains, and support for custom probability distributions.
 This library was built on Python==3.12.0, Pytorch==2.3.1, Numpy==1.26.0, Matplotlib==3.9.0.
 
-
+For citation check: [![DOI](https://zenodo.org/badge/813093740.svg)](https://zenodo.org/doi/10.5281/zenodo.11951534)
 
 ## Library Components
 
